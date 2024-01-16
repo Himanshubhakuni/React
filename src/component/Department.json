@@ -1,0 +1,34 @@
+[
+	{
+  	"department": "customer_service",
+  	"sub_departments": [
+    	"support",
+    	"customer_success"
+  	]
+	},
+	{
+  	"department": "design",
+  	"sub_departments": [
+    	"graphic_design",
+    	"product_design",
+    	"web_design"
+  	]
+	},
+	{
+    "department": "IT",
+    "sub_departments": ["Software Development", "Network Administration", "Database Management"]
+  },
+  {
+    "department": "Finance",
+    "sub_departments": ["Accounting", "Budgeting", "Financial Planning"]
+  },
+  {
+    "department": "Marketing",
+    "sub_departments": ["Digital Marketing", "Content Creation", "Market Research"]
+  },
+  {
+    "department": "HR",
+    "sub_departments": ["Recruitment", "Employee Relations", "Training and Development"]
+  }
+]
+  
